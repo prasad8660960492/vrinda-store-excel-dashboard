@@ -3,6 +3,9 @@
 ## Overview
 An interactive Excel dashboard analyzing Vrinda Store's 2026 sales data.
 
+## Dashboard Preview
+![Vrinda Store Dashboard](2026-03-26.png)
+
 ## Key Insights
 - Women contribute 64% of total sales
 - Amazon channel drives highest orders (35.5%)
